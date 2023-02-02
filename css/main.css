@@ -1,0 +1,35 @@
+div.all{
+  position: relative;
+}
+div.input{
+    font-size: 15px;
+    width: 30px;
+    position: absolute;
+    left: 700px;
+    display: flex;
+    top: 30px;
+}
+div.input>*{
+    font-size: 15px;
+    text-align: center;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+div.but{
+    font-size: 15px;
+    width: 30px;
+    position: absolute;
+    left: 850px;
+    display: flex;
+}
+h1{
+    font-size: 40px;
+    width: 30px;
+    position: absolute;
+    left: 850px;
+    top: 20px;
+    text-align: center;
+}
